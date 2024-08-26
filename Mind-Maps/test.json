@@ -1,0 +1,57 @@
+{
+    "connections": {
+        "connections": [
+            {
+                "end": 0,
+                "start": 1
+            },
+            {
+                "end": 1,
+                "start": 0
+            }
+        ]
+    },
+    "nodes": [
+        {
+            "associated_course": "Aquarium LimboTEST",
+            "color": "#ff66f0",
+            "connections": [
+                1
+            ],
+            "font_size": 9,
+            "has_arrow_at_connection_end": true,
+            "shape": "Square",
+            "star_associated": true,
+            "text": "New Node",
+            "x": 25056,
+            "y": 24977
+        },
+        {
+            "associated_course": "Blazing Bullet Factory",
+            "color": "#00ffff",
+            "connections": [
+                0
+            ],
+            "font_size": 9,
+            "has_arrow_at_connection_end": true,
+            "shape": "Square",
+            "star_associated": true,
+            "text": "New Noded",
+            "x": 25002,
+            "y": 25084
+        },
+        {
+            "associated_course": "",
+            "color": "#00ffff",
+            "connections": [
+            ],
+            "font_size": 9,
+            "has_arrow_at_connection_end": false,
+            "shape": "Square",
+            "star_associated": false,
+            "text": "New Node",
+            "x": 24798,
+            "y": 25003
+        }
+    ]
+}
